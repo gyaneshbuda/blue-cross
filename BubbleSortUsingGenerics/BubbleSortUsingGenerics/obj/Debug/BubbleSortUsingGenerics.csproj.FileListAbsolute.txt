@@ -1,0 +1,6 @@
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\bin\Debug\BubbleSortUsingGenerics.exe.config
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\bin\Debug\BubbleSortUsingGenerics.exe
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\bin\Debug\BubbleSortUsingGenerics.pdb
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\obj\Debug\BubbleSortUsingGenerics.csprojResolveAssemblyReference.cache
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\obj\Debug\BubbleSortUsingGenerics.exe
+D:\Development\BubbleSortUsingGenerics\BubbleSortUsingGenerics\obj\Debug\BubbleSortUsingGenerics.pdb
